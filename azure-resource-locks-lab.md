@@ -25,7 +25,7 @@ You should now see a Resource Group containing 4 Storage Accounts. The Storage A
 
 ![New Resource Group in Azure Portal](resources/portal1.png)
 
-## Task 2: Create and test a DoNotDelete Lock
+### Task 2: Create and test a DoNotDelete Lock
 1. In the ``festive-tech-lock-lab`` Resource Group blade, select ``Locks`` from the left hand menu.
 2. In the ``Locks`` blade, click on the ``Add`` button in the toolbar
 3. A popup will appear, enter the following details then click the ``OK`` button
@@ -48,7 +48,7 @@ Locks must be removed before this resource can be deleted.
 
 7. Click on ``festive-tech-lock-lab`` in the breadcrumbs at the top of the window to return to the Resource Group.
 
-## Task 3: Remove a Lock
+### Task 3: Remove a Lock
 1. In the ``festive-tech-lock-lab`` Resource Group blade, select ``Locks`` from the left hand menu.
 2. Click the ``Delete`` button to the right of the Lock added in Task 2.
 
